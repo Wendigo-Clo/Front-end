@@ -1,0 +1,39 @@
+.div{
+    background-color: rgba(0, 0, 0, 0.850);
+}
+
+.Logo{
+    width: 150px;
+    margin-top: 3px;
+    display: flex;
+    align-items: flex-start;
+}
+
+img{
+  width: 50px;
+  float: right;
+  padding-top: 10px;
+}
+
+.container{
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.redes{
+  display: flex;
+    align-items: center;
+    margin-right: 1em;
+}
+
+.redes img{
+  margin: 0.2em;
+}
+
+.btn{
+  padding: 0.75em;
+  margin: 0.2em;
+}

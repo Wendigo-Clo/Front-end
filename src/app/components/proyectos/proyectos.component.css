@@ -1,0 +1,12 @@
+.row{
+  padding: 15px;
+}
+
+.container{
+  width: auto;
+}
+
+.div{
+  display: inline-block;
+  text-align: justify;
+}

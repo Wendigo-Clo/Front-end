@@ -1,0 +1,11 @@
+.row{
+  background:  hsla(0, 0%, 0%, 0.925);
+}
+
+footer{
+  text-align: center;
+  color: whitesmoke;
+  flex-direction: column;
+  display: flex;
+}
+
